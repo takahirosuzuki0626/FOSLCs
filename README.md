@@ -1,4 +1,5 @@
 
+[![DOI](https://zenodo.org/badge/369186758.svg)](https://zenodo.org/badge/latestdoi/369186758)
 # FOSLCs 
 Author: Takahiro Suzuki
 
