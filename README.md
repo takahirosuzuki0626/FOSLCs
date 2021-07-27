@@ -3,7 +3,7 @@
 # FOSLCs 
 Author: Takahiro Suzuki
 
-lastpudate: 2021-05-20
+last update: 2021-05-27
 
 ---
 Analysis scripts used for Yoshino et al. "EGeneration of ovarian follicles from mouse pluripotent stem cells" Science Vol. 373, Issue 6552, eabe0237 (2021)
